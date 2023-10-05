@@ -1,4 +1,4 @@
-# Hi there, Riza 👋
+# Hello Everyone, Riza here👋
 ## About me:
 - 🌱 I’m currently learning PHP and Javascript
 - 👯 I’m looking to collaborate as Front End Developer
@@ -14,11 +14,6 @@
 ## Experience:
 #### 1. [Studi Independen Kampus Merdeka Batch 4] | Binar Academy | Fullstack Web Developer | `February 2023 - Juni 2023`
    - Certificate
-
-### Languages and Tools:
-
-<br />
-<br />
 
 ---
 ### Connect with me:
