@@ -1,6 +1,6 @@
 # Hello Everyone, Riza here👋
 ## About me:
-- 🌱 I’m currently learning PHP and Javascript
+- 🌱 I’m currently learning about PHP and Laravel
 - 👯 I’m looking to collaborate as Front End Developer
 - 💬 Ask me about anything
 - 📫 How to reach me: rizatullamongan2002@gmail.com
