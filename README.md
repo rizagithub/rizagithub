@@ -7,15 +7,15 @@
 
 ## Education:
 
-#### 1. [Universitas Negeri Surabaya](https://www.unesa.ac.id) | Bachelor of Informatic Engineering | Surabaya `2020-Present`
+#### 1. [Universitas Negeri Surabaya](https://www.unesa.ac.id) | Bachelor of Informatic Engineering
    
- #### 2. [SMA N 1 Sekaran](https://smanegeri1sekaran.sch.id/) | MIPA | Lamongan `2017-2020`
+ #### 2. [SMA N 1 Sekaran](https://smanegeri1sekaran.sch.id/) | MIPA
 
 ## Experience:
-#### 1. [Studi Independen Kampus Merdeka Batch 4] | Binar Academy | Fullstack Web Developer | `February 2023 - Juni 2023`
+#### 1. Studi Independen Kampus Merdeka Batch 4 | Binar Academy | Fullstack Web Developer | `February 2023 - Juni 2023`
    - Certificate
 
-#### 2. [Studi Independen Kampus Merdeka Batch 6] | PT Arkatama Multisolusindo | Web Developer | `February 2024 - Juni 2024`
+#### 2. Studi Independen Kampus Merdeka Batch 6 | PT Arkatama Multisolusindo | Web Developer | `February 2024 - Juni 2024`
    - Certificate BNSP
 
 ---
